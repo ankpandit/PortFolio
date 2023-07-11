@@ -1,6 +1,6 @@
 {
   "name": "starter",
-  "homepage" : "https://ankpandit.github.io/my-app" ,
+  "homepage" : "https://ankpandit.github.io/PortFolio" ,
   "version": "0.1.0",
   "private": true,
   "dependencies": {
