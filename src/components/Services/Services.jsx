@@ -4,7 +4,7 @@ import HeartEmoji from "../../img/heartemoji.png";
 import Humble from "../../img/humble.png";
 import Glasses from "../../img/glasses.png";
 import Card from "../Card/Card" ;
-import Resume from './Resume.docx' ;
+import Resume from './Updated-Resume.pdf' ;
 
 export default function Services() {
   return (
